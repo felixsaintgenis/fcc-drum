@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fcc-drum/static/css/main.f508434e.css",
+    "main.js": "/fcc-drum/static/js/main.2c9bd85c.js",
+    "static/media/drum.jpg": "/fcc-drum/static/media/drum.2280b32179e2189d3873.jpg",
+    "index.html": "/fcc-drum/index.html",
+    "main.f508434e.css.map": "/fcc-drum/static/css/main.f508434e.css.map",
+    "main.2c9bd85c.js.map": "/fcc-drum/static/js/main.2c9bd85c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f508434e.css",
+    "static/js/main.2c9bd85c.js"
+  ]
+}
